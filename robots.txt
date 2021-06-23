@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://oversizedhat.github.io/spaceandtime-homepage-stage/sitemap.xml
+Sitemap: https://oversizedhat.github.io/spacentime-homepage-stage/sitemap.xml
