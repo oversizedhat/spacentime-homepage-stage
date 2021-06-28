@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.hejedu.com/spaceandtime/sitemap.xml
+Sitemap: https://oversizedhat.github.io/spacentime-homepage-stage/sitemap.xml
